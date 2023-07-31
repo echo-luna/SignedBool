@@ -10,4 +10,6 @@ This library applies the field of abstract boolean to C++ code to demonstrate pl
 
 Any questions can be directed to Echo at echo@el42.tech or on X @TheTraveler9720
 
+Discussion can be found at: https://twitter.com/TheTraveler9720/status/1685890846225571840?s=20
+
 This project is offered under the MIT license. Contributions welcome.
