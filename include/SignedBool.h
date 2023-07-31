@@ -5,7 +5,7 @@
 SignedBool Written
 ---E42 Technologies---
 Authors:
-Eleanor Locke [EL,EC,LY,OP]
+[EL,EC,LY,OP]
 
 Created: 13JULY2023 2:18:06 PM UTC
 
